@@ -42,13 +42,6 @@ SCT_WD_4
 2. Open the project folder.
 3. Open `index.html` in your browser.
 
-## Live Demo
-
-🔗 https://prakhersharmaa89-crypto.github.io/SCT_WD_4/
-
-## GitHub Repository
-
-🔗 https://github.com/prakhersharmaa89-crypto/SCT_WD_4
 
 ## Project Output
 
@@ -65,6 +58,6 @@ The To-Do Web Application allows users to:
 
 ## Author
 
-**Bhaskar Sharma**
+**RAMSWAROOP CHOYAL**
 
 SkillCraft Technology – Web Development Intern
